@@ -1,2 +1,2 @@
 # NotSpotify
-Music Player Web Page - HTML &amp; CSS
+Music Player Web Page -  Using HTML &amp;  Vanilla CSS
